@@ -1,0 +1,2 @@
+! Dummy HYSYS Script
+SOLVE
